@@ -10,7 +10,7 @@ from pprint import pprint
 import glob
 
 
-generations_path = "/sensei-fs/users/susmita/AVA/AlignViaActions50M/OQA-XL/results_pref_xl/vicuna-7b-v1.5"
+generations_path = "results_pref_xl/vicuna-7b-v1.5"
 if generations_path[-1] == '/':
     generations_path = generations_path[:-1]
 
