@@ -17,15 +17,17 @@ OpinionQA-XL significantly expands the original OpinionQA dataset to include PEW
 
 The ```eval_train_tasks``` provides scripts to evaluate LLMs on validation split of the AlignViaActions50M dataset proposed in the associated work. It contains a script to generate LLM responses, and two scripts to evaluate the generated responses on either predictive or generative tasks, as described in the paper.
 
+The dataset can be downloaded from [This Google Drive Link](https://drive.google.com/drive/folders/1UlBbytEdGPTS5rIMAz-UZgdyO-2t4bht)
+
 ### Citation
 
 If you find this work useful for your research, please cite the it as follows:
 
 ```bibtex
 @online{bhattacharyya2024align,
-  author = {Bhattacharyya, Aanisha and Agrawal, Susmit and Singla, Yaman K and SR, Nikitha and Menta, Tarun Ram and Krishnamurthy, Balaji},
-  title = {Measuring and Improving Persuasive Abilities of Generative Models},
-  year = {2024},
-  url = {https://behavior-in-the-wild.github.io/align-via-actions}
+  title={Align Via Actions : Learning Behavior Aligns LLMs With Human Opinions in Zero-Shot},
+  author={Bhattacharyya, Aanisha and Agrawal, Susmit and Singla, Yaman K and SR, Nikitha and Menta, Tarun Ram and Krishnamurthy, Balaji},
+  year={2024},
+  url={https://behavior-in-the-wild.github.io/align-via-actions}
 }
 ```

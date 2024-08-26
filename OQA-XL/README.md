@@ -46,9 +46,9 @@ If you use this evaluation method or the task files, please cite the work as:
 
 ```bibtex
 @online{bhattacharyya2024align,
-  author = {Bhattacharyya, Aanisha and Agrawal, Susmit and Singla, Yaman K and SR, Nikitha and Menta, Tarun Ram and Krishnamurthy, Balaji},
-  title = {Measuring and Improving Persuasive Abilities of Generative Models},
-  year = {2024},
-  url = {https://behavior-in-the-wild.github.io/align-via-actions}
+  title={Align Via Actions : Learning Behavior Aligns LLMs With Human Opinions in Zero-Shot},
+  author={Bhattacharyya, Aanisha and Agrawal, Susmit and Singla, Yaman K and SR, Nikitha and Menta, Tarun Ram and Krishnamurthy, Balaji},
+  year={2024},
+  url={https://behavior-in-the-wild.github.io/align-via-actions}
 }
 ```
