@@ -17,6 +17,8 @@ OpinionQA-XL significantly expands the original OpinionQA dataset to include PEW
 
 The ```eval_train_tasks``` provides scripts to evaluate LLMs on validation split of the AlignViaActions50M dataset proposed in the associated work. It contains a script to generate LLM responses, and two scripts to evaluate the generated responses on either predictive or generative tasks, as described in the paper.
 
+The dataset can be downloaded from [This Google Drive Link](https://drive.google.com/drive/folders/1UlBbytEdGPTS5rIMAz-UZgdyO-2t4bht).
+
 ### Citation
 
 If you find this work useful for your research, please cite the it as follows:
