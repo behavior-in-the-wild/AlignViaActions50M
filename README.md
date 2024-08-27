@@ -1,5 +1,13 @@
 # Align Via Actions : Learning Behavior Aligns LLMs With Human Opinions in Zero-Shot
 
+- [**Project Page**](https://behavior-in-the-wild.github.io/align-via-actions)
+- [**Data (AVA50M)**](https://drive.google.com/drive/folders/1UlBbytEdGPTS5rIMAz-UZgdyO-2t4bht)
+<!-- - [**Paper**](https://arxiv.org/abs/2309.00378) -->
+
+<div align="center">
+    <img width="100%" src="imgs/teaser" alt="Example Image"/>
+</div>
+
 ## Overview
 
 This repository includes tools and datasets for evaluating Large Language Models (LLMs) on various behavioral tasks described in the paper and also run evaluations on the OpinionQA-XL dataset.
