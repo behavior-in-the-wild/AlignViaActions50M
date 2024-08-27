@@ -5,7 +5,7 @@
 <!-- - [**Paper**](https://arxiv.org/abs/2309.00378) -->
 
 <div align="center">
-    <img width="100%" src="imgs/teaser" alt="Example Image"/>
+    <img width="100%" src="imgs/teaser.png" alt="Example Image"/>
 </div>
 
 ## Overview
