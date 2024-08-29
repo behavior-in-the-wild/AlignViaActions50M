@@ -56,9 +56,9 @@ If you find this work useful for your research, please cite the it as follows:
 
 ```bibtex
 @online{bhattacharyya2024align,
-  title={Align Via Actions : Learning Behavior Aligns LLMs With Human Opinions in Zero-Shot},
-  author={Bhattacharyya, Aanisha and Agrawal, Susmit and Singla, Yaman K and SR, Nikitha and Menta, Tarun Ram and Krishnamurthy, Balaji},
-  year={2024},
-  url={https://behavior-in-the-wild.github.io/align-via-actions}
+  author = {Bhattacharyya, Aanisha and Agrawal, Susmit and Singla, Yaman K and SR, Nikitha and Menta, Tarun Ram and Krishnamurthy, Balaji},
+  title = {Measuring and Improving Persuasive Abilities of Generative Models},
+  year = {2024},
+  url = {https://behavior-in-the-wild.github.io/align-via-actions}
 }
 ```
